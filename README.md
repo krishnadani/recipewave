@@ -1,8 +1,29 @@
-# RecipeWave
+# RecipeWave --> [View it on Vercel →](https://recipewave.vercel.app)
+
+**RecipeWave** is a recipe-sharing web app built with **React.js**, deployed on **Vercel**. It allows users to browse, search, save, and share recipes with an intuitive and responsive interface.
+
+## Features
+- Explore curated recipes with images and instructions
+- Filter by ingredients or categories
+- Save favorites to personal lists
+- Responsive design for mobile and desktop
+
+## Tech Stack
+- **Frontend**: Next.js, React
+- **Hosting**: Vercel
+- **State Management**: (e.g. React Context or Redux)
+- **Styling**: (e.g. CSS Modules, Tailwind CSS)
+
+## Live Demo
+[View it on Vercel →](https://recipewave.vercel.app)
+
+## How to Run Locally (bash)
+git clone https://github.com/your-username/recipewave.git
+cd recipewave
+npm install
+npm run dev
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
----
 
 ## Available Scripts
 
